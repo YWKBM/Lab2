@@ -7,6 +7,9 @@
 # Название программы
 Lab2
 # Описание
-Решение задачи перевода численной записи числа в пропись.
+Решение задачи перевода записи числа в пропись.
 # Как использовать 
+Запустить код в редакторе Visual Studio или запустить exe файл программы, ввести число от 1 до 999999.
 ![Alt-текст](https://github.com/YWKBM/Lab2/blob/master/A_9_a7gdzgs.jpg)
+![Alt-текст](https://github.com/YWKBM/Lab2/blob/master/mtQHn42xr5Q.jpg)
+![Alt-текст](https://github.com/YWKBM/Lab2/blob/master/qg3bArnFoQc.jpg)
