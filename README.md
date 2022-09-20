@@ -9,4 +9,4 @@ Lab2
 # Описание
 Решение задачи перевода численной записи числа в пропись.
 # Как использовать 
-[Alt-текст](https://github.com/YWKBM/Lab2/blob/master/A_9_a7gdzgs.jpg)
+![Alt-текст](https://github.com/YWKBM/Lab2/blob/master/A_9_a7gdzgs.jpg)
